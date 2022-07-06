@@ -62,12 +62,12 @@
     "is-git-clean": "1.1.0",
     "jscodeshift": "0.13.1",
     "meow": "7.1.1",
-    "update-notifier": "5.1.0"
+    "update-notifier": "6.0.2"
   },
   "devDependencies": {
     "@types/jest": "28.1.4",
     "@types/jscodeshift": "0.11.5",
-    "@types/update-notifier": "5.1.0",
+    "@types/update-notifier": "6.0.1",
     "@typescript-eslint/eslint-plugin": "5.30.5",
     "@typescript-eslint/parser": "5.30.5",
     "codecov": "3.8.3",
